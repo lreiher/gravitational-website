@@ -1,3 +1,13 @@
+# Gravitational Website
+
+This website was used to promote my iOS app *Gravitational*.
+
+**The app is discontinued, this repository only serves to archive the code.**
+
+![](assets/screenshot.png)
+
+---
+
 #Landy
 
 **A flexible one-page fully responsive HTML template for your app**
